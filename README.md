@@ -15,4 +15,4 @@ This repository contains a simple implementation of a Recurrent Neural Network (
 ---
 
 ## 📂 Dataset Used : 
-- Custom question answering dataset
+- Custom question answering dataset (https://github.com/arpan-1010/RNN/blob/main/100_Unique_QA_Dataset.csv)
