@@ -11,3 +11,8 @@ This repository contains a simple implementation of a Recurrent Neural Network (
 - 🧠 Implements a simple RNN with an embedding layer.
 - 🏋️ Training loop with CrossEntropy loss and Adam optimizer.
 - 🔮 Prediction function for answering new questions.
+
+---
+
+## 📂 Dataset Used : 
+- Custom question answering dataset
