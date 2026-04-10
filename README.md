@@ -1,4 +1,4 @@
-- 📚 Simple RNN for Question-Answering
+- 📚 **Simple RNN for Question-Answering**
 
 - This repository contains a simple implementation of a Recurrent Neural Network (RNN) using PyTorch for a basic Question-Answering (QA) task. The model is trained on a custom dataset of question-answer pairs and learns to predict answers based on input questions.
 
